@@ -17,6 +17,7 @@ I want to foster an inclusive environment while creating lessons and posts on di
 
 [![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonntann&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+Here are some of my past [works](wonntann.github.io/).
   
 
 **Languages and Tools:**  
