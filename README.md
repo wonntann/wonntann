@@ -5,7 +5,7 @@ I have been involved in the Arts and EduTech Community as a curriculum developer
 
 I want to foster an inclusive environment while creating lessons and posts on different programming features. My goal is to offer support to my learners and create a welcoming environment to best enable growth.
 
-<h3>Here are a little bit about me: </h3>
+<h3>A little bit about me: </h3>
 
 - 🔭 I’m currently working on building lessons, you can see my past [works](https://wonntann.github.io/)
 - 🌱 I’m currently learning full stack development
