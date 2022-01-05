@@ -11,7 +11,7 @@ I want to foster an inclusive environment while creating lessons and posts on di
 - 🌱 I’m currently learning full stack development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with creating curriculum that is needed, let me know!
-- 💬 Ask me about [Python](https://github.com/wonntann/Python), [GitHub](https://github.com/wonntann/GitHub)
+- 💬 Ask me about [Python](https://github.com/wonntann/Python), [GitHub](https://github.com/wonntann/GitHub), [VS Code](https://github.com/wonntann/VS-Code.git)
 - 📫 How to reach me: [@wonntann](https://twitter.com/wonntann) or receive my (non-spam) [newsletter](https://tinyletter.com/wonntann/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a big :bike: rider and support [CFF](https://www.cff.org/) and [AIDS/Life Cycle](https://www.aidslifecycle.org/)
