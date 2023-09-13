@@ -7,7 +7,7 @@ I want to foster an inclusive environment while creating lessons and [posts](htt
 
 <h3>A little bit about me: </h3>
 
-- 🔭 I’m currently working on building lessons, you can see my past [works](https://wonntann.github.io/) or [past designs](https://www.behance.net/wonntann), a litle [about me](https://www.linkedin.com/in/tanya-pulley/) and some posts [here](https://hashnode.com/@wonntann)
+- 🔭 I’m currently working on building lessons, you can see my past [works](https://wonntann.github.io/) or [past designs](https://www.behance.net/wonntann), a little [about me](https://www.linkedin.com/in/tanya-pulley/) and some posts [here](https://hashnode.com/@wonntann)
 - 🌱 I’m "mastering" Linux 
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 If your looking for help with creating curriculum that is needed, let me know!
