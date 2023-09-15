@@ -1,7 +1,7 @@
 ### Hi there. I'm Tanya 👋
 
 
-I have been involved in the Arts and EduTech Community as a curriculum developer and have educated over 500 K-12 programming classes in various technologies such as Scratch, Python, JavaScript and Git. My passions lie with technology and the arts, I have been involved with a local Photography Museum as a Museum Educator and a Programming Educator for various web technologies and languages.
+I have been involved in the Arts and EduTech Community as a curriculum developer, while educating 500+ programming classes covering various technologies such as Scratch, Python, JavaScript and Git. Additionally, I've successfully prepared over 100 clients for success in my Career Development class. My passions lie with technology and the arts, I have been involved with a local Photography Museum as a Museum Educator and a Programming Educator for various web technologies and languages.
 
 I want to foster an inclusive environment while creating lessons and [posts](https://hashnode.com/@wonntann) on different programming features. My goal is to enable my learners, create a welcoming environment to best promote growth, and have learners open to explore new technology, while acknowledging the best practices and positively increasing independent thought.
 
