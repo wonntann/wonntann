@@ -1,9 +1,10 @@
 ### Hi there. I'm Tanya 👋
 
+With a rich background in both the Arts and EdTech Communities, I've dedicated myself to shaping the educational landscape as a curriculum developer and mentor. Over the course of my journey, I've had the priviledge of instructing 500+ programming classes, delving into a diverse array of technologies such as Scratch, Python, JavaScript, and Git. Notably, my influence extends beyond the confines of traditional classrooms—I've adeptly prepared over 100 clients for success through my Career Development class.
 
-I have been involved in the Arts and EduTech Community as a curriculum developer, while educating 500+ programming classes covering various technologies such as Scratch, Python, JavaScript and Git. Additionally, I've successfully prepared over 100 clients for success in my Career Development class. My passions lie with technology and the arts, I have been involved with a local Photography Museum as a Museum Educator and a Programming Educator for various web technologies and languages.
+My passions lie with technology and the arts, I have actively contributed to my local Photography Museum as a Museum Educator. Simultaneously, my role as a Programming Educator has involved enlightening learners on various web technologies and programming languages.
 
-I want to foster an inclusive environment while creating lessons and [posts](https://hashnode.com/@wonntann) on different programming features. My goal is to enable my learners, create a welcoming environment to best promote growth, and have learners open to explore new technology, while acknowledging the best practices and positively increasing independent thought.
+My commitment extends beyond instruction; I aspire to cultivate an inclusive learning environment. As I craft lessons and share insights on diverse programming features, my primary goal is to empower learners. Creating a welcoming atmosphere is paramount in fostering growth, encouraging exploration of new technologies, and instilling best practices. I am dedicated to nurturing independent thought, ensuring that each learner not only acquires technical skills but also develops a mindset poised for success in the ever-evolving landscape of technology and the arts.
 
 <h3>A little bit about me: </h3>
 
