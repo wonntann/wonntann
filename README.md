@@ -1,6 +1,6 @@
 ### Hi there. I'm Tanya 👋
 
-With a rich background in both the Arts and EdTech Communities, I've dedicated myself to shaping the educational landscape as a curriculum developer and mentor. Over the course of my journey, I've had the priviledge of instructing 500+ programming classes, delving into a diverse array of technologies such as Scratch, Python, JavaScript, and Git. Notably, my influence extends beyond the confines of traditional classrooms—I've adeptly prepared over 100 clients for success through my Career Development class.
+With a rich background in both the Arts and EdTech Communities, I've dedicated myself to shaping the educational landscape as a curriculum developer and mentor. Over the course of my journey, I've had the privilege of instructing 500+ programming classes, delving into a diverse array of technologies such as Scratch, Python, JavaScript, and Git. Notably, my influence extends beyond the confines of traditional classrooms—I've adeptly prepared over 100 clients for success through my Career Development class.
 
 My passions lie with technology and the arts, I have actively contributed to my local Photography Museum as a Museum Educator. Simultaneously, my role as a Programming Educator has involved enlightening learners on various web technologies and programming languages.
 
